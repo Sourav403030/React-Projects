@@ -1,0 +1,8 @@
+@import "tailwindcss";
+@import 'remixicon/fonts/remixicon.css';
+
+@theme{
+  --font-poppins: 'Poppins', sans-serif;
+  --font-zalando: "Zalando Sans SemiExpanded", sans-serif;
+  --font-host: "Host Grotesk", sans-serif;
+}
